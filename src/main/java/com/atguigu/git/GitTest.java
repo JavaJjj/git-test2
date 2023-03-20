@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("审批来了吗，第三次修改");
         System.out.println("审批来了吗，第四次修改");
         System.out.println("审批来了吗，master test");
+        System.out.println("审批来了吗，develop test");
     }
 }
