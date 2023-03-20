@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("审批来了吗，push test");
         System.out.println("审批来了吗，push ssh test");
         System.out.println("审批来了吗，pull test");
+        System.out.println("审批来了吗，github更新了");
     }
 }
